@@ -1,5 +1,5 @@
   <html>
-  <head> ABout me </head>
+  <head> About me </head>
   <body>
 
   <p>Stránky, ktoré som vytvoril nájdete</p>
